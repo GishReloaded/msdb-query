@@ -3,7 +3,7 @@
 
 ### Examples
 ```vb
-Public Function InsertUser(ByVal email As String, ByVal name As String) As Boolean
+    Public Function InsertUser(ByVal email As String, ByVal name As String) As Boolean
         Using connection As SqlConnection = SQL.sqlConnection(connectionString)
 
             If SQL.Connect(connection) Then
