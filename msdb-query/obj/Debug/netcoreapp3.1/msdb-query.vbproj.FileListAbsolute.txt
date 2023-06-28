@@ -1,0 +1,10 @@
+C:\Users\gishr\source\repos\msdb-query\msdb-query\bin\Debug\netcoreapp3.1\msdb-query.deps.json
+C:\Users\gishr\source\repos\msdb-query\msdb-query\bin\Debug\netcoreapp3.1\msdb-query.dll
+C:\Users\gishr\source\repos\msdb-query\msdb-query\bin\Debug\netcoreapp3.1\msdb-query.pdb
+C:\Users\gishr\source\repos\msdb-query\msdb-query\obj\Debug\netcoreapp3.1\msdb-query.vbproj.AssemblyReference.cache
+C:\Users\gishr\source\repos\msdb-query\msdb-query\obj\Debug\netcoreapp3.1\msdb-query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gishr\source\repos\msdb-query\msdb-query\obj\Debug\netcoreapp3.1\msdb-query.AssemblyInfoInputs.cache
+C:\Users\gishr\source\repos\msdb-query\msdb-query\obj\Debug\netcoreapp3.1\msdb-query.AssemblyInfo.vb
+C:\Users\gishr\source\repos\msdb-query\msdb-query\obj\Debug\netcoreapp3.1\msdb-query.vbproj.CoreCompileInputs.cache
+C:\Users\gishr\source\repos\msdb-query\msdb-query\obj\Debug\netcoreapp3.1\msdb-query.dll
+C:\Users\gishr\source\repos\msdb-query\msdb-query\obj\Debug\netcoreapp3.1\msdb-query.pdb
